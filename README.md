@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Obed 👋
 
-<!--
-**obedgyamfi/obedgyamfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Security Enthusiast | Systems Programmer**
 
-Here are some ideas to get you started:
+Building robust applications and exploring the intersection of development and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+```text
+Languages:    TypeScript • Rust • C++ • JavaScript
+Frontend:     React • Next.js
+Backend:      Node.js • Express
+Security:     Penetration Testing • Vulnerability Research
+Systems:      CLI Tools • Performance Optimization
+```
+
+## 🎯 Currently Working On
+
+- **pwntrack** - Track, triage, and tame your security findings
+- **Inventory Management System** - Full-stack solution with analytics dashboard
+- Sharpening my Rust skills through practical CLI tools
+
+## 💡 What I Do
+
+- ⚡ Build scalable full-stack applications
+- 🔒 Research security vulnerabilities and tooling
+- 🦀 Explore systems programming with Rust
+- 📊 Create data-driven solutions with intuitive UIs
+
+## 📫 Let's Connect
+
+- GitHub: [@obedgyamfi](https://github.com/obedgyamfi)
+- Currently open to collaboration on security tools and full-stack projects
+
+---
+
+```rust
+fn main() {
+    println!("Code with purpose. Secure by design.");
+}
+```
