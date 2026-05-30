@@ -5,4 +5,4 @@ Hi, I'm Obed (ob) — full-stack engineer, electrical & electronic engineer, and
 
 ### Projects
 
-* **grim** — GCC runtime & toolchain installation manager. https://github.com/grimlabs-org/grimx
+* **grimx** — GCC runtime & toolchain installation manager. https://github.com/grimlabs-org/grimx
