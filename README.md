@@ -5,4 +5,8 @@ Hi, I'm Obed (ob) — full-stack engineer, electrical & electronic engineer, and
 
 ### Projects
 
-* **grimx** — GCC runtime & toolchain installation manager. https://github.com/grimlabs-org/grimx
+#### GRIMLABS - Research Lab
+  * **grimx** — GCC runtime & toolchain installation manager. https://github.com/grimlabs-org/grimx
+
+#### Personal 
+  - **GrimStake** - A decentralized staking web3 application
