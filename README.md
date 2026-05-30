@@ -1,18 +1,8 @@
-<div align="center">
-  
-# 👋 Hey, I'm Obed Gyamfi
+Hi, I'm Obed (0xb3d) — full-stack engineer, electrical & electronic engineer, and cybersecurity researcher. I write open-source tools and build across the stack, from the silicon up. Feel free to say hi. ✌🏿 [✉️](https://twitter.com/0xb3d)
 
-### Full-Stack Developer | Security Researcher | Systems Programmer
+### Research & Writing
+[grimlabs.org/posts](https://grimlabs.org/posts)
 
-[![GitHub followers](https://img.shields.io/github/followers/obedgyamfi?style=social)](https://github.com/obedgyamfi)
-[![GitHub stars](https://img.shields.io/github/stars/obedgyamfi?style=social)](https://github.com/obedgyamfi)
+### Projects
 
-</div>
-
----
-
-## 🚀 About Me
-
-⭐️ From [obedgyamfi](https://github.com/obedgyamfi)
-
-</div>
+* **grim** — GCC runtime & toolchain installation manager. https://github.com/grimlabs-org/grimx
