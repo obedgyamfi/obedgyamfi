@@ -16,3 +16,6 @@ through [GrimLabs](https://grimlabs.org/blog)
 
 #### GRIMLABS - Research Lab
   * **grimx** — GCC runtime & toolchain installation manager. https://github.com/grimlabs-org/grimx
+  * **glyph-cipher** - A research prototype that renders confidential text as a coherent but unfamiliar
+                      writing system, resolving to plaintext only for a holder of the correct passphrase.
+                      https://github.com/grimlabs-org/glyph-cipher
